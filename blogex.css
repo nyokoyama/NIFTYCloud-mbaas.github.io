@@ -33,6 +33,4 @@ body {
 .header-description::before {
   width: 0px;
 }
-#wrapper {
-  background-color: #FFFFFF;
-}
+
