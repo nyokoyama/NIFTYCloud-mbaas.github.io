@@ -27,3 +27,6 @@ body {
 .entry-title::before {
   width: 0px;
 }
+.entry-content h2::before {
+  width: 0px;
+}
