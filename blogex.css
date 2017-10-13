@@ -24,3 +24,5 @@ body {
   word-wrap: break-word;
   color: #303030;
 }
+#container {
+  border-top: 8px solid #000000; }
