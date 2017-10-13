@@ -24,6 +24,6 @@ body {
   word-wrap: break-word;
   color: #303030;
 }
-#container {
-  border-top: 0px solid #000000;
+.entry-title::before {
+  width: 0px;
 }
