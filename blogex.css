@@ -1,3 +1,11 @@
 .entry-footer-section {
   display:none;
 }
+.entry-content h3 {
+  padding: 8px 0 8px 12px;
+  border-left: 4px solid #161410;
+  background-color: #f0f0f0;
+  margin: 56px 0 40px 0;
+  line-height: 1.5;
+  font-size: 2.0rem;
+}
