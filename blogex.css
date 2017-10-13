@@ -30,3 +30,6 @@ body {
 .entry-content h2::before {
   width: 0px;
 }
+.header-description::before {
+  width: 0px;
+}
