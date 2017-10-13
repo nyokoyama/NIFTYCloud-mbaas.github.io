@@ -51,7 +51,9 @@ body {
 }
 
 .author-profile-text {
-  margin-left: 104px;
+  float: left;
+  width: 350px;
+  margin-left: 25px;
 }
 
 .author-profile-text h4 {
