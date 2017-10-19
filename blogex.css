@@ -171,6 +171,7 @@ body {
 
 .sns-link:hover {
     text-decoration: none;
+	
 }
 
 .sns-link:hover::after {
@@ -195,6 +196,22 @@ body {
 		width: 300px;
 		height: 300px;
 	}
+}
+
+.sns-twitter {
+    background: #55acee;
+}
+
+.sns-facebook {
+    background: #3a5795;
+}
+
+.sns-bookmark {
+    background: #00A5DE;
+}
+
+.sns-pocket {
+    background: #ED4055;
 }
 
 .blogicon-twitter,
