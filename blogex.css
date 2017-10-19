@@ -214,13 +214,13 @@ body {
 .blogicon-bookmark,
 .blogicon-chevron-down {
     margin-right: 5px;
-    color: #fff;
+/*     color: #fff; */
 }
 
 @media only screen and (max-width: 767px) {
     .sns-txt {
        display: none;
-       color: #fff;
+/*        color: #fff; */
     }
    .blogicon-twitter,
    .blogicon-facebook,
