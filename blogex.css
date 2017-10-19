@@ -113,6 +113,39 @@ body {
   border-radius: 50%;
 }
 
+/* **************************
+  [6] ソーシャルボタン
+************************** */
+
+.share-button {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
+.share-button ul {
+  margin: 0;
+  padding: 0;
+}
+.share-button ul li {
+  float: left;
+  font-size: 250%;
+  list-style: none;
+  text-align: center;
+  width: 33%;
+}
+.share-button ul li a:hover {
+  opacity: 0.5;
+}
+.blogicon-bookmark {
+  color: #00a4de;
+}
+.blogicon-twitter {
+  color: #55acee;
+}
+.blogicon-facebook {
+  color: #3b5999;
+}
+
 /* ======================================
     2017/10/17 N.Y 新規作成
     2017/XX/XX X.X ○○追加・・・
