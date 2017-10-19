@@ -222,7 +222,7 @@ body {
     color: #fff;
 }
 
-a.sns-txt:hover, a.sns-txt:active, a.sns-txt:focus {
+span.sns-txt:hover, span.sns-txt:active, span.sns-txt:focus {
     color: #fff;
 }
 
