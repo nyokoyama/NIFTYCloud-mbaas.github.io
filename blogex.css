@@ -136,16 +136,17 @@ body {
 }
 .share-button ul li a:hover {
   opacity: 0.5;
-}
+} */
+
 .blogicon-bookmark {
-  color: #00a4de;
+  color: #fff;
 }
 .blogicon-twitter {
-  color: #55acee;
+  color: #fff;
 }
 .blogicon-facebook {
-  color: #3b5999;
-} */
+  color: #fff;
+}
 
 /* ======================================
     2017/10/17 N.Y 新規作成
