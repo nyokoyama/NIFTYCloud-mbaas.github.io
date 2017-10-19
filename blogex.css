@@ -180,6 +180,7 @@ body {
 	-webkit-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 	opacity: 0;
+	coler: #fff;
 }
 
 .sns-link:hover {
