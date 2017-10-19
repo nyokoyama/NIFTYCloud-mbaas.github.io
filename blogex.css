@@ -226,6 +226,11 @@ body {
     color: #fff;
 }
 
+.hatebu-count,
+.facebook-count {
+    color: #fff;
+}
+
 @media only screen and (max-width: 767px) {
     .sns-txt {
        display: none;
