@@ -118,26 +118,6 @@ body {
   [6] ソーシャルボタン
 ************************** */
 
-.share-button {
-  text-align: center;
-  width: 70%;
-  margin: 0 auto;
-}
-.share-button ul {
-  margin: 0;
-  padding: 0;
-}
-.share-button ul li {
-  float: left;
-  font-size: 250%;
-  list-style: none;
-  text-align: center;
-  width: 33%;
-}
-.share-button ul li a:hover {
-  opacity: 0.5;
-}
-
 .blogicon-bookmark {
   color: #fff;
 }
@@ -145,13 +125,12 @@ body {
   color: #fff;
 }
 .blogicon-facebook {
-  color: #fff;fsds
+  color: #fff;
 }
 .blogicon-chevron-down {
   color: #fff;
 }
 
-/* 池田テスト中 */
 .sns-header, .sns-footer {
     padding: 0 24px;
 }
@@ -228,22 +207,6 @@ body {
 		width: 300px;
 		height: 300px;
 	}
-}
-
-.sns-twitter {
-    background: #55acee;
-}
-
-.sns-facebook {
-    background: #3a5795;
-}
-
-.sns-bookmark {
-    background: #00A5DE;
-}
-
-.sns-pocket {
-    background: #ED4055;
 }
 
 .blogicon-twitter,
