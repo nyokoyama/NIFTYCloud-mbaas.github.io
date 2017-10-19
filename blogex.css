@@ -118,19 +118,6 @@ body {
   [6] ソーシャルボタン
 ************************** */
 
-.blogicon-bookmark {
-  color: #fff;
-}
-.blogicon-twitter {
-  color: #fff;
-}
-.blogicon-facebook {
-  color: #fff;
-}
-.blogicon-chevron-down {
-  color: #fff;
-}
-
 .sns-header, .sns-footer {
     padding: 0 24px;
 }
@@ -190,6 +177,7 @@ body {
 	-webkit-animation: circle .75s;
 	animation: circle .75s;
 }
+
 @-webkit-keyframes circle {
 	50% {
 		opacity: 1;
@@ -214,19 +202,20 @@ body {
 .blogicon-bookmark,
 .blogicon-chevron-down {
     margin-right: 5px;
-/*     color: #fff; */
+    color: #fff;
 }
 
 @media only screen and (max-width: 767px) {
     .sns-txt {
        display: none;
-/*        color: #fff; */
+       color: #fff;
     }
    .blogicon-twitter,
    .blogicon-facebook,
    .blogicon-bookmark,
    .blogicon-chevron-down {
        margin-right: 0;
+       color: #fff;
    }
 }
 
