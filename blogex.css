@@ -118,7 +118,7 @@ body {
   [6] ソーシャルボタン
 ************************** */
 
-/* .share-button {
+.share-button {
   text-align: center;
   width: 70%;
   margin: 0 auto;
@@ -136,7 +136,7 @@ body {
 }
 .share-button ul li a:hover {
   opacity: 0.5;
-} */
+}
 
 .blogicon-bookmark {
   color: #fff;
